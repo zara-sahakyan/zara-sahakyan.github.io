@@ -90,7 +90,7 @@ header .social-icon li a
 	border-bottom: 4px solid #28a7e9;
 }
 .current_page_item a{
-	color: #28a7e9;
+	color: #28a7e9 !important;
 	border-bottom: 4px solid #28a7e9;
 }
 
