@@ -639,12 +639,15 @@ header .social-icon li a
 	.navbar-toggle {
 		position: absolute;
     	left: 10px;
+		z-index: 2;
 	}
 	.my-nav .container {
 		width: 100%;
 	}
 	.navbar-default .navbar-brand {
 		padding-left: 70px;
+		z-index: 1;
+        position: relative;
 	}
 	.navbar-collapse {
 		max-height: 300px;
