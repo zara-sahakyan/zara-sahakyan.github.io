@@ -638,14 +638,16 @@ header .social-icon li a
 	.navbar-toggle {
 		margin-top: 15px;
 		position: absolute;
-    	right: 0;
+    	left: 10px;
+	}
+	.navbar-default .navbar-brand {
+		padding-left: 70px;
 	}
 	.navbar-collapse {
 		max-height: 300px;
 		overflow-y: auto;
 	}
 	.navbar-default .navbar-nav li a {
-		height: 45px;
 		padding-top: 5px;
 		padding-bottom: 5px;
 		line-height: 35px;
