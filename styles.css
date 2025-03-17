@@ -640,6 +640,7 @@ header .social-icon li a
 		position: absolute;
     	left: 10px;
 		z-index: 2;
+		margin-top: 0;
 	}
 	.my-nav .container {
 		width: 100%;
@@ -648,6 +649,7 @@ header .social-icon li a
 		padding-left: 70px;
 		z-index: 1;
         position: relative;
+		padding-top: 5px;
 	}
 	.navbar-collapse {
 		max-height: 300px;
